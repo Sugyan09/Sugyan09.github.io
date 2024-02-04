@@ -1037,7 +1037,7 @@ mask-image: linear-gradient(to top, transparent 40%, #97075b 80%) !important;
 }
 
 
-@media(max-width: 375px){
+@media(max-width: 500px){
   .floral-animation{
     position: static;
     margin-left: 8em;
